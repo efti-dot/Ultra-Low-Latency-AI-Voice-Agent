@@ -141,6 +141,8 @@ celerybeat.pid
 env/
 venv/
 ENV/
+myenv/
+node_modules/
 env.bak/
 venv.bak/
 
